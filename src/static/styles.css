@@ -24,6 +24,10 @@ header {
   border-radius: 5px;
 }
 
+h3 {
+  color: limegreen;
+}
+
 header h1 {
   margin-bottom: 10px;
 }
@@ -159,7 +163,6 @@ button {
   cursor: pointer;
   transition: background-color 0.2s;
 }
-
 
 button:hover {
   background-color: #32cd32;
